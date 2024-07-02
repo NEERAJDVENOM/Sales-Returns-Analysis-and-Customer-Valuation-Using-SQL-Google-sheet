@@ -1,8 +1,10 @@
 # SQL Solutions
 
 ## Sales Data Analysis
+Refer to this link for google sheet solution:
 
 This repository contains SQL solutions for various sales data analysis queries.
+https://docs.google.com/spreadsheets/d/1LsmG74YnCGnqMzi0MXS5bb-1T505fkpubbdsRDMtIhY/edit?gid=1221437970#gid=1221437970
 
 ### Questions and Solutions
 
